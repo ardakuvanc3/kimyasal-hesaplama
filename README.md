@@ -34,15 +34,15 @@ Uygulamayı kendi bilgisayarınızda çalıştırmak için aşağıdaki adımlar
 
 bash```
 git clone https://github.com/ardakuvanc3/kimyasal-hesaplama.git
-```
+bash```
 
 bash```
 cd kimyasal-hesaplama
-```
+bash```
 
 bash```
 python main.py
-```
+bash```
 
 ### Gereksinimler
 
@@ -63,7 +63,7 @@ pip install customtkinter, tkinter
 
 Katkıda bulunmak isterseniz, lütfen bir **fork** yapın ve değişikliklerinizi bir **pull request** ile gönderin.
 
-1. Fork yapın (`https://github.com/kullanici_adi/koordinat-uygulamasi/fork`).
+1. Fork yapın (`https://github.com/ardakuvanc3/kimyasal-hesaplama/fork`).
 2. Bir özellik dalı oluşturun (`git checkout -b ozellik-isim`).
 3. Değişikliklerinizi işleyin (`git commit -am 'Yeni bir özellik ekledim'`).
 4. Dalınıza push yapın (`git push origin ozellik-isim`).
