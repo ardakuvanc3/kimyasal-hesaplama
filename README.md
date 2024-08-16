@@ -1,0 +1,1 @@
+# kimyasal-hesaplama
