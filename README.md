@@ -32,12 +32,24 @@ Bu uygulama aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 Uygulamayı kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
+bash```
+git clone https://github.com/ardakuvanc3/kimyasal-hesaplama.git
+```
+
+bash```
+cd kimyasal-hesaplama
+```
+
+bash```
+python main.py
+```
+
 ### Gereksinimler
 
 Projeyi çalıştırmadan önce aşağıdaki Python kütüphanelerini yüklemeniz gerekmektedir:
 
 ```bash
-pip install customtkinter
+pip install customtkinter, tkinter
 ```
 
 ## Ekran Görüntüleri
