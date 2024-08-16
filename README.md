@@ -32,17 +32,17 @@ Bu uygulama aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 Uygulamayı kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
-bash```
+```
 git clone https://github.com/ardakuvanc3/kimyasal-hesaplama.git
-bash```
+```
 
-bash```
+```
 cd kimyasal-hesaplama
-bash```
+```
 
-bash```
+```
 python main.py
-bash```
+```
 
 ### Gereksinimler
 
